@@ -1,0 +1,53 @@
+python
+real_estate_listings = [
+    {
+        "location": "Dwarka Sector 12",
+        "list_price": 250000,
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "square_feet": 800,
+        "monthly_hoa": 500,
+        "school_rating": 4.2,
+        "description": "Cozy 2-bedroom apartment in a well-maintained society. Close to markets, schools, and metro station. Ideal for small families or working professionals."
+    },
+    {
+        "location": "Saket",
+        "list_price": 750000,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "square_feet": 1500,
+        "monthly_hoa": 700,
+        "school_rating": 4.7,
+        "description": "Spacious 4-bedroom house in a gated community. Modern amenities, lush green surroundings, and proximity to malls and hospitals. Perfect for a growing family."
+    },
+    {
+        "location": "Vasant Kunj",
+        "list_price": 1200000,
+        "bedrooms": 3,
+        "bathrooms": 2.5,
+        "square_feet": 1200,
+        "monthly_hoa": 800,
+        "school_rating": 4.9,
+        "description": "Elegant 3-bedroom apartment with a view of the city skyline. High-end finishes, designer interiors, and easy access to upscale shopping and dining options."
+    },
+    {
+        "location": "Preet Vihar",
+        "list_price": 500000,
+        "bedrooms": 2,
+        "bathrooms": 1.5,
+        "square_feet": 900,
+        "monthly_hoa": 400,
+        "school_rating": 4.4,
+        "description": "Charming 2-bedroom flat in a peaceful neighborhood. Close to schools, parks, and markets. Suitable for young couples or professionals."
+    },
+    {
+        "location": "Karol Bagh",
+        "list_price": 1000000,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "square_feet": 1000,
+        "monthly_hoa": 600,
+        "school_rating": 4.3,
+        "description": "Modern 3-bedroom home in a bustling area. Surrounded by shops, restaurants, and cultural attractions. Convenient for those who enjoy city living."
+    }
+] 

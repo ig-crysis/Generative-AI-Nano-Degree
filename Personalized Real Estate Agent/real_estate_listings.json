@@ -1,0 +1,152 @@
+[
+    {
+        "location": "South Delhi - Vasant Kunj",
+        "list_price": 1500000,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "square_feet": 2000,
+        "monthly_hoa": 500,
+        "school_rating": 4.8,
+        "description": "Luxurious villa with a spacious living area, modern kitchen, and landscaped garden. Close to premium shopping malls, hospitals, and international schools. Serene and secure neighborhood with excellent amenities."
+    },
+    {
+        "location": "Central Delhi - Connaught Place",
+        "list_price": 2200000,
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "square_feet": 1200,
+        "monthly_hoa": 800,
+        "school_rating": 4.3,
+        "description": "Modern apartment in the heart of the city with panoramic views. High-end finishes, designer kitchen, and access to top restaurants and cultural attractions. Ideal for professionals seeking a vibrant urban lifestyle."
+    },
+    {
+        "location": "East Delhi - Mayur Vihar",
+        "list_price": 900000,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "square_feet": 1500,
+        "monthly_hoa": 300,
+        "school_rating": 4.7,
+        "description": "Well-maintained home in a family-friendly neighborhood. Spacious rooms, ample natural light, and close proximity to parks and schools. Ideal for growing families looking for a peaceful environment."
+    },
+    {
+        "location": "North Delhi - Model Town",
+        "list_price": 1800000,
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "square_feet": 2500,
+        "monthly_hoa": 600,
+        "school_rating": 4.6,
+        "description": "Stunning modern house with a backyard oasis. Open floor plan, luxury finishes, and outdoor entertainment space. Close to transportation, markets, and reputable schools."
+    },
+    {
+        "location": "West Delhi - Rajouri Garden",
+        "list_price": 1200000,
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "square_feet": 1000,
+        "monthly_hoa": 400,
+        "school_rating": 4.4,
+        "description": "Cozy apartment with modern amenities in a bustling neighborhood. Easy access to shopping centers, eateries, and public transport. Perfect for young professionals or couples."
+    },
+    {
+        "location": "South Delhi - Greater Kailash",
+        "list_price": 2500000,
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "square_feet": 3000,
+        "monthly_hoa": 700,
+        "school_rating": 4.9,
+        "description": "Elegant bungalow with a spacious layout, lush garden, and luxurious interiors. Prime location near upscale boutiques, fine dining restaurants, and renowned schools."
+    },
+    {
+        "location": "Central Delhi - Karol Bagh",
+        "list_price": 1300000,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "square_feet": 1800,
+        "monthly_hoa": 500,
+        "school_rating": 4.5,
+        "description": "Classic townhouse with vintage charm and modern updates. Close to local markets, entertainment venues, and public transportation. Ideal for families seeking a blend of tradition and convenience."
+    },
+    {
+        "location": "East Delhi - Laxmi Nagar",
+        "list_price": 800000,
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "square_feet": 900,
+        "monthly_hoa": 200,
+        "school_rating": 4.2,
+        "description": "Compact and affordable apartment in a vibrant neighborhood. Walking distance to markets, cafes, and educational institutions. Perfect for first-time buyers or students."
+    },
+    {
+        "location": "North Delhi - Civil Lines",
+        "list_price": 2000000,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "square_feet": 2200,
+        "monthly_hoa": 600,
+        "school_rating": 4.7,
+        "description": "Historic colonial-style home with modern amenities. Prestigious address near government offices, embassies, and elite schools. Ideal for those seeking a blend of history and luxury."
+    },
+    {
+        "location": "West Delhi - Dwarka",
+        "list_price": 1700000,
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "square_feet": 2100,
+        "monthly_hoa": 500,
+        "school_rating": 4.6,
+        "description": "Contemporary duplex with sleek finishes and panoramic views. Gated community with recreational facilities, shopping complexes, and reputed schools. Perfect for modern families looking for comfort and convenience."
+    },
+    {
+        "location": "South Delhi - Saket",
+        "list_price": 2700000,
+        "bedrooms": 6,
+        "bathrooms": 4,
+        "square_feet": 3200,
+        "monthly_hoa": 800,
+        "school_rating": 4.9,
+        "description": "Palatial estate with grand interiors, landscaped gardens, and a private pool. Located in a prestigious enclave near luxury boutiques, fine dining establishments, and top educational institutions."
+    },
+    {
+        "location": "Central Delhi - Jor Bagh",
+        "list_price": 3000000,
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "square_feet": 2800,
+        "monthly_hoa": 1000,
+        "school_rating": 4.8,
+        "description": "Regal mansion with opulent detailing, expansive grounds, and state-of-the-art amenities. Situated in an exclusive neighborhood with easy access to high-end retail outlets, gourmet restaurants, and prestigious schools."
+    },
+    {
+        "location": "East Delhi - Preet Vihar",
+        "list_price": 950000,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "square_feet": 1600,
+        "monthly_hoa": 300,
+        "school_rating": 4.4,
+        "description": "Charming home in a peaceful locale, updated interiors, and a cozy backyard. Close to playgrounds, eateries, and academic institutions. Ideal for a small family seeking tranquility."
+    },
+    {
+        "location": "North Delhi - Ashok Vihar",
+        "list_price": 2300000,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "square_feet": 2400,
+        "monthly_hoa": 700,
+        "school_rating": 4.6,
+        "description": "Spacious multilevel residence with contemporary amenities and outdoor entertaining space. Conveniently located near transportation hubs, shopping centers, and esteemed schools."
+    },
+    {
+        "location": "West Delhi - Janakpuri",
+        "list_price": 1400000,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "square_feet": 1700,
+        "monthly_hoa": 400,
+        "school_rating": 4.5,
+        "description": "Bright and airy flat with modern conveniences, close to markets, recreational facilities, and educational centers. Perfect for families seeking a well-connected yet relaxed lifestyle."
+    }
+]
